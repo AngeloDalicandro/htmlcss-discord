@@ -211,4 +211,13 @@ hr {
     font-size: 22px;
 }
 
+.bottom {
+    justify-content: space-between;
+    padding: 20px 0;
+}
 
+.registrati {
+    background-color: #7289da;
+    color: white;
+    padding: 10px 20px;
+}
