@@ -120,8 +120,31 @@ h1 {
     margin-left: 30px;
 }
 
+/* MAIN */
 
+.content {
+    /* align-items: center; */
+    padding: 60px 0;
+}
+.wide-column {
+    width: 60%;
+}
+
+.narrow-column {
+    width: 40%;
+}
     
+h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 22px;
+    padding: 20px 0;
+    line-height: 30px;
+}
+
+
 
 
 
