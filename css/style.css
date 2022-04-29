@@ -148,7 +148,7 @@ p {
     text-align: center;
 }
 
-h3 {
+.content-2 h3 {
     font-size: 32px;
     padding: 15px 0;
     background-image: url("../img/stars.svg");
@@ -165,5 +165,50 @@ h3 {
     padding: 10px 20px;
 }
 
+/* footer */
+
+footer {
+    background-color: #23272a;
+    color: white;
+}
+
+.footer-main-text {
+    width: calc((100% / 6) * 2);
+}
+
+.etc {
+    width: calc(100% / 6);
+}
+
+.etc ul {
+    line-height: 40px;
+}
+
+.bgc-lightpurple {
+    color: #6e85d6;
+}
+
+.footer-main-text h3 {
+    font-size: 34px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 2px solid #3f4a6b;
+    
+}
+
+ .italia {
+    width: 30px;
+}
+
+.footer-main-text p {
+    display: inline-block;
+}
+
+.icons .fa-brands {
+    padding: 10px;
+    font-size: 22px;
+}
 
 
